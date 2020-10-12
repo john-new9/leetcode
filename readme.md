@@ -81,7 +81,14 @@ git add有好多种。
 
 ### ![image-20200828002749890](C:\Users\BU\AppData\Roaming\Typora\typora-user-images\image-20200828002749890.png)
 
-## 
+- 提交更改
+
+![image-20200828002929295](C:\Users\BU\AppData\Roaming\Typora\typora-user-images\image-20200828002929295.png)
+
+- 增加commit
+- push到远程仓库
+
+![image-20200828003039066](C:\Users\BU\AppData\Roaming\Typora\typora-user-images\image-20200828003039066.png)
 
 ## 2.4 文件克隆
 
